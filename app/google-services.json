@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "837466807544",
+    "firebase_url": "https://chat-app-madlab-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chat-app-madlab",
+    "storage_bucket": "chat-app-madlab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837466807544:android:2abbc26e1db4df9085ef0d",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837466807544-e6801rft0bh2265t3ousg3704bs38vs3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8s31hIxlYlpdn6KSpnkeh_qkxXDw1Cos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837466807544-e6801rft0bh2265t3ousg3704bs38vs3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837466807544:android:fe025b5d07e22a9b85ef0d",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837466807544-e6801rft0bh2265t3ousg3704bs38vs3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8s31hIxlYlpdn6KSpnkeh_qkxXDw1Cos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837466807544-e6801rft0bh2265t3ousg3704bs38vs3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
