@@ -57,6 +57,7 @@ public class Success extends AppCompatActivity
 
 		Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
 		toolbar.setTitle(username);
+		toolbar.setSubtitle("Online");
 		setSupportActionBar(toolbar);
 
 
@@ -101,6 +102,8 @@ public class Success extends AppCompatActivity
 			pushMessage(message);
 	}
 
+	@Override
+	public void onBackPressed() {logoutFunc();}
 
 	@Override
 	public boolean onCreateOptionsMenu( Menu menu ) {

@@ -5,6 +5,7 @@
 	android:layout_width="match_parent"
 	android:layout_height="match_parent"
 	android:orientation="vertical"
+	android:background="@drawable/backg"
 	tools:context=".Success">
 
 	<androidx.appcompat.widget.Toolbar
@@ -41,6 +42,9 @@
 		android:paddingVertical="5dp">
 
 		<EditText
+			android:backgroundTint="@color/white"
+
+			android:textColor="@color/white"
 			android:id="@+id/messageEdit"
 			android:layout_width="0dp"
 			android:layout_height="match_parent"

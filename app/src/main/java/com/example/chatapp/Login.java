@@ -66,6 +66,9 @@ public class Login extends AppCompatActivity
 		password = findViewById(R.id.password);
 	}
 
+	@Override
+	public void onBackPressed() {}
+
 	public void loginFunc( View v )
 	{
 		final String[] emailText = { email.getText().toString() };
